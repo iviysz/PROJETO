@@ -1,5 +1,6 @@
 # PROJETO
 Grupo formado por: Emanuel, Stephany e Thiago.
+
 link para o site de receitas:
 https://replit.com/@EmanuelGomes8/Receitas?v=1
 
